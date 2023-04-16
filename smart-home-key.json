@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-home-87411",
+  "private_key_id": "3eec5f2e1920271135c4fdfc7145f27a27d1a68f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7IGIzpB6KCNye\nv/WHlJl+m/tDdQg03XNhbb6LLr/geGG5GkGgxHJ+J3yheWN0F0WitQ3sNNhbDhOg\nYmFGJCNZbO0DjbVrOW2m6BvdXyb62tdVF0nVWW2paACzA1m2uhi18Dws6bRNU+05\nF7Bg+4t4x60c60ANw+mjoAf3eJCNumqq6SC6zJn9nPhhwQoVceznrYUptnIhjo8e\np8J7Va50pHPbUX3vtGMYKHbpuueoscoQLets8Okv+47XbWiHX9vB2ThVnnUCYp8A\n97xnrE1M1SNmJyRHbdEBh++xep9zeQxPwH58sAwCAvN/gKpSpFW2su4inbrudAdJ\npnwL7wxRAgMBAAECggEAEnCrRLgCW2tqpEk53qG964xe+yOMCruc7Ge2bHxPo8Tx\nKl7EQ13Ag56MCVSPQKgvcEyDwfhmLrjpJbe0KseSZTRW+e/rxhR7cgRzBIJlMrjA\nmg3ItJnStOw/D2T/4QIfP8ScBXgFUM55tNPZCYGYWa9hp5UmM4UQH9P8HP64TgL6\naZQakundfbxOB4PQe4/xWEQqcFEy/K8N4F+/wfXKw1nneVeF6UVeO4aXT/j2yq9w\n4o44DQ929UcFp6UwFRMSrp6em3i9Dt06DPg1v/aLNrXROwTOP7g2J5OtpWWKHrP8\nPfuS2rarL121m4BG6C6tiz60LeTgd/FkNcvEWGA1XQKBgQD/sQ2KyuFU7n/tmOM9\nEGrLz+dLTUECBA4+3OcVgAb+xIV/a5LB57qLs9aTMiX0c8o7X4mt9ayI4hTNZUDt\nrgV5KyozmH1ykGS7nbJXGGRbeZ5N/Li50K3Mpvr/5eZukHzBi9DBhv6TVLE5on8+\ntSoKQ72iuoLbPycQ/sGaTYAEDQKBgQC7WikdLPS3s5q/Vql/O4jkVmTao3ZEqlZ2\nRhF+r0cB2rn4jyOyClLKqXezq/8Ir2kEK784ZBI40GT9S2mvCJjL+05Hp/UydtEC\nlgJEly9SWK2f9Hbl4SxL6TBhVDKwDzqHHgsx2rU7MfngbIYgT+kJqTHTn3qO8mK6\nVK+UzvOEVQKBgQClPFX0C4fyyu4BLXwsSh+59nESSKpqExThqv/q9QGQQo/C+FGu\n3YHAJkfUd+PvRaS7GdJviQQmsXOgCH8dGgiPdUWgcjsffhCa7h4CCtFQDBgxbdAy\nxJiMWJx8IqX3bYgxy5jsd8CslV6yUEDK1WiFmaFDOCS4audkJD4Y6VyBQQKBgCXX\nRxiafO8huq7M3T1SlAqynHpAq+GgmggXjO8OjgQE3q0ilC4gwaonYoMKyV9Ctq5d\n+6hzJe8NwGgctELjNKF2p8/3T6Iat4qTK/AYrTkvqhn1sZIq0dyfQ+NUs0w2NzcV\nTWOLbjF/nZ3Dra+XFFWcM/Evc/ytXl2OP0yKJEtlAoGAIV9bL2dZGDXdkS0DqoDE\nhUseQUpiLrt7dpfd8qw8dlAySWjXA1S15Oa6jcD3zg8Z9P5S2En0SOJibZFZYmXJ\ncxd772gfG5SBcrsh13jU8JVEOlaGhhlTqX8FnnwPThGHzVMiXuTIXxTolxuJDYIw\n1UI/wSvjIymUH2s87ULiff0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smart-jordi@smart-home-87411.iam.gserviceaccount.com",
+  "client_id": "109806577480623332910",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smart-jordi%40smart-home-87411.iam.gserviceaccount.com"
+}
