@@ -8,7 +8,7 @@ const {
 } = require("actions-on-google");
 const bodyParser = require("body-parser");
 
-const firestore = require("./firestore.js");
+const firestore = require("../firestore.js");
 
 const app = express();
 
@@ -35,7 +35,7 @@ async function asyncForEach(array, callback) {
 
 let jwt;
 try {
-  jwt = require("./smart-home-key.json");
+  jwt = require("../smart-home-key.json");
 } catch (e) {
   console.warn("error reading service account key:", e);
   console.warn("reportState and requestSync operation will fail");
@@ -466,6 +466,6 @@ app.get("/", function (req, res) {
 });
 
 app.post("/fulfillment", bodyParser.json(), smartApp);
-// app.listen(3000);
+app.listen(3000);
 
 module.exports = app;
